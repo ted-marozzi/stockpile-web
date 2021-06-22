@@ -1,0 +1,23 @@
+{
+  "firstName": "Ted",
+  "middleName": "",
+  "lastName": "Marozzi",
+  "stockHoldings": [
+    {
+      "ticker":  "NAB",
+      "units":  "181",
+      "totalPrice":  "16.428"
+    },
+    {
+      "ticker":  "WBC",
+      "units":  "181",
+      "totalPrice":  "19.521"
+    },
+    {
+      "ticker":  "PBH",
+      "units":  "302",
+      "totalPrice":  "3.150"
+    }
+  ]
+
+}
